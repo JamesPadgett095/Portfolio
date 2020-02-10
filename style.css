@@ -1,0 +1,161 @@
+body{
+    background: #fff;
+    margin: 0;
+    cursor: url("cursor.svg"), auto;
+    height: 100vh;
+}
+
+
+.border {
+    width: ;
+    margin: 0 auto;
+    background: #ff0000;
+    font-size: 24px;
+    padding: 0px;
+}
+
+
+
+.titlebox {
+    background: #ff0000;
+    width: 100px;
+    height: 0px;
+    color: #fff;
+}
+
+.subtitle {
+    color: #000;
+    font-size: 20px;
+    padding: 27px 0px 0px 0px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.subsubtitle {
+position: absolute;
+top: 67px;
+    color: #000;
+    font-size: 11px;
+    padding: 0px 0px 0px 0px;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.container {
+    width: auto;
+    margin: 0 auto;
+    background: #fff;
+    font-size: 24px;
+}
+
+.parallax {
+background: url("pictures/texturehollow.png") no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height: 300px;
+}
+
+
+.content {
+    height: 1000px;
+}
+
+
+.introline {
+    height: 15px;
+    background: url("pictures/texturedark.png") no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.introline2 {
+    height: 15px;
+    background: url("pictures/textureoutline.png") no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.introline3 {
+    height: px;
+    background: url("");
+    background-attachment: fixed;
+}
+
+.intro {
+    color: #000;
+    font-family: "San Francisco", Helvetica, Arial, san-serif;
+    font-size: 50px;
+    float: right;
+    padding: 0px 0px 0px 0px;
+}
+
+.spacerx {
+    height: 150px;
+}
+
+.spacery {
+    height: 50px;
+}
+
+.spacerleft {
+    height: 400px;
+}
+
+.windowleft {
+    width: 400px;
+}
+
+.textleft {
+    text-align: right;
+    font-size: 30px;
+    font-family: "San Francisco", Helvetica, Arial, san-serif;
+    padding: 0px 0px 0px 0px;
+}
+
+.textright {
+    padding: 400px 0px 0px 400px;
+    font-size: 50px;
+    font-family: "San Francisco", Helvetica, Arial, san-serif;
+}
+
+.textrightclose {
+    padding: 0px 0px 0px 400px;
+    font-size: 50px;
+    font-family: "San Francisco", Helvetica, Arial, san-serif;
+}
+
+
+.introlineleft {
+    height: 2px;
+    width: 400px;
+    background: url("pictures/texture.png");
+    background-attachment: fixed;
+}
+
+.imageportrait {
+    padding: 0px 0px 0px 400px;
+}
+
+
+
+.outroline {
+    height: 2px;
+    background: url("pictures/texture.png");
+    background-attachment: fixed;
+}
+
+
+.title {
+    padding: 400px 0px 0px 400px;
+    font-size: 70px;
+    font-family: "San Francisco", Helvetica, Arial, san-serif;
+}
+
+
+.line {
+    position: absolute;
+    background: #;
+    height: 20000px;
+    width: 400px;
+    z-index: 1;
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+}
