@@ -1,1 +1,0 @@
-# jamespadgett.github.io
