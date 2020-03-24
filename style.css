@@ -1,7 +1,6 @@
 body{
     background: #fff;
     margin: 0;
-    cursor: url("cursor.svg"), auto;
     height: 100vh;
 }
 
@@ -110,10 +109,17 @@ height: 300px;
     padding: 0px 0px 0px 0px;
 }
 
+.textright2 {
+    padding: 400px 0px 0px 400px;
+    font-size: 50px;
+    font-family: "San Francisco", Helvetica, Arial, san-serif;
+}
+
 .textright {
     padding: 400px 0px 0px 400px;
     font-size: 50px;
     font-family: "San Francisco", Helvetica, Arial, san-serif;
+	font-weight: bold;
 }
 
 .textrightclose {
@@ -153,7 +159,7 @@ height: 300px;
 .line {
     position: absolute;
     background: #;
-    height: 20000px;
+    height: 45000px;
     width: 400px;
     z-index: 1;
     border-style: solid;
