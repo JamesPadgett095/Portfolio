@@ -110,9 +110,11 @@ height: 300px;
 }
 
 .textright2 {
-    padding: 400px 0px 0px 400px;
-    font-size: 50px;
+
+    padding: 0px 0px 0px 400px;
+    font-size: 30px;
     font-family: "San Francisco", Helvetica, Arial, san-serif;
+	font-weight: bold;
 }
 
 .textright {
@@ -151,7 +153,7 @@ height: 300px;
 
 .title {
     padding: 400px 0px 0px 400px;
-    font-size: 70px;
+    font-size: 120px;
     font-family: "San Francisco", Helvetica, Arial, san-serif;
 }
 
