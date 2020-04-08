@@ -23,10 +23,11 @@ body{
 }
 
 .subtitle {
+	position: absolute;
     color: #000;
-    font-size: 20px;
-    padding: 27px 0px 0px 0px;
-    font-family: "Courier New", Courier, monospace;
+	font-size: 116px;
+    font-family: "San Francisco", Helvetica, Arial, san-serif;
+    padding: 0px 0px 0px 0px;
 }
 
 .subsubtitle {
@@ -115,6 +116,13 @@ height: 300px;
     font-size: 30px;
     font-family: "San Francisco", Helvetica, Arial, san-serif;
 	font-weight: bold;
+}
+
+.textright3 {
+	color: #9F9F9F;
+    padding: 0px 0px 0px 400px;
+    font-size: 30px;
+    font-family: "San Francisco", Helvetica, Arial, san-serif;
 }
 
 .textright {
